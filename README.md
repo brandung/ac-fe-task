@@ -20,7 +20,7 @@ Bevor ihr mit der Umsetzung beginnt, müsst ihr ein paar Sachen vorbereiten.
    
 2. Als nächstes das Repo herunterladen und das ZIP File auf eurer Festplatte entpacken:
 
-   [Download Repo from Github](https://github.com/brandung/)
+   [Download Repo from Github](https://github.com/brandung/ac-fe-task)
    
 3. Öffnet einen Editor ([zum Beispiel Visual Studio Code](https://visualstudio.microsoft.com/de/)) und fügt den Ordner eurem Arbeitsbereich hinzu.
 4. Im Terminal-Fenster des Editors müsst ihr nun die node packages für das Projekt mit folgendem Befehl installieren. 
