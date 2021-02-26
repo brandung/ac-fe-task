@@ -1,0 +1,15 @@
+{
+  "name": "ac-fe-task",
+  "version": "1.0.0",
+  "description": "brandung frontend test task for assessment-center",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brandung GmbH & Co. KG",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
